@@ -1,0 +1,26 @@
+# Scuba (Behavure AI)
+
+> Scuba (Scuba Analytics, formerly Interana) is a real-time behavioral and customer analytics platform for self-service exploration of large-scale event data, backed by Battery Ventures and DCVC. The company is rebranding to Behavure AI, extending its behavioral query engine to detect drift, explain decisions, and govern AI agents. Scuba publishes product guides, a glossary, dated release notes, and a Tableau connector, but does not currently expose a public developer REST API, SDKs, or a machine-readable API specification.
+
+## Company
+- [Website (Behavure AI)](https://behavure.ai): Behavioral intelligence platform — the rebrand of Scuba Analytics.
+- [About](https://behavure.ai/about): Company background (Palo Alto, CA; formerly Scuba Analytics / Interana).
+- [Contact](https://behavure.ai/contact): info@behavure.ai
+- [Privacy Policy](https://behavure.ai/privacy)
+
+## Docs
+- [Documentation](https://docs.behavure.ai): Current product documentation hub.
+- [Scuba Documentation (legacy host)](https://docs.scuba.io): Scuba v4 and v5 guides, glossary, release notes.
+- [Scuba v5 Guides](https://docs.scuba.io/guides-v5/): Key concepts, tutorials, user guides, admin guides.
+- [Scuba v4 Guides](https://docs.scuba.io/guides/)
+- [Release Notes](https://docs.scuba.io/release-notes/): Dated product release notes (v4 / v5).
+- [Tableau Connector](https://docs.scuba.io/tableau/): BI connector for querying Scuba from Tableau.
+
+## Blog
+- [Blog](https://behavure.ai/blog)
+
+## Source
+- [GitHub organization (behavure)](https://github.com/behavure): behavure-docs, mta-sts (no SDK / OpenAPI / proto published).
+
+## Notes
+- No public developer REST API reference, OpenAPI/AsyncAPI specification, SDK packages, MCP server, OAuth scopes, or /.well-known discovery documents were found (all probed /.well-known paths and /llms.txt returned 404 across behavure.ai, docs.scuba.io, and docs.behavure.ai as of 2026-07-21).

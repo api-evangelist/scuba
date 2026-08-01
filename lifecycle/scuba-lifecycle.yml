@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+source: https://docs.scuba.io/release-notes/
+versioning:
+  scheme: major-product-version
+  current: v5
+  prior: v4
+  note: >-
+    Scuba ships as major product versions (Scuba v4 and Scuba v5), each with its
+    own guides and glossary. No documented URI/header API versioning scheme was
+    found because no public developer API is published.
+release_notes: https://docs.scuba.io/release-notes/
+deprecation:
+  policy_url: null
+  sunset_header: null
+  note: No published API deprecation policy or RFC 8594 Sunset/Deprecation header support was found.
+sla:
+  url: null
+status_page: null
+deprecated_operations: []
