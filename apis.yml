@@ -7,6 +7,17 @@ description: Scuba (Scuba Analytics, formerly Interana) is a real-time behaviora
   users. Scuba publishes product user guides, admin guides, a glossary, dated release notes, and
   a Tableau connector at docs.scuba.io (now docs.behavure.ai), but does not currently expose a
   public developer REST API reference, SDKs, or machine-readable API specification.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
